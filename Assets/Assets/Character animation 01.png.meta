@@ -1,0 +1,1843 @@
+fileFormatVersion: 2
+guid: f71bc153a515651469c4d97f7e5248e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7343422034689049625
+    second: Character animation 01_0
+  - first:
+      213: -2842404323504254447
+    second: Character animation 01_1
+  - first:
+      213: -2467681803739394898
+    second: Character animation 01_2
+  - first:
+      213: 7463261788802231068
+    second: Character animation 01_3
+  - first:
+      213: -4627365728783442838
+    second: Character animation 01_4
+  - first:
+      213: 319576545728811825
+    second: Character animation 01_5
+  - first:
+      213: 5644688378119417436
+    second: Character animation 01_6
+  - first:
+      213: -3534036064049076401
+    second: Character animation 01_7
+  - first:
+      213: 3499818795069758319
+    second: Character animation 01_8
+  - first:
+      213: 3667394469565055227
+    second: Character animation 01_9
+  - first:
+      213: -9095924073609539099
+    second: Character animation 01_10
+  - first:
+      213: 6099036763682183465
+    second: Character animation 01_11
+  - first:
+      213: 8571605626726118348
+    second: Character animation 01_12
+  - first:
+      213: -2215218310709939225
+    second: Character animation 01_13
+  - first:
+      213: 3443276389434682423
+    second: Character animation 01_14
+  - first:
+      213: 3120635874681175988
+    second: Character animation 01_15
+  - first:
+      213: 1024898032113151197
+    second: Character animation 01_16
+  - first:
+      213: -3226477610606681198
+    second: Character animation 01_17
+  - first:
+      213: 8183563334466816495
+    second: Character animation 01_18
+  - first:
+      213: -3200380175774285752
+    second: Character animation 01_19
+  - first:
+      213: -188932028679296832
+    second: Character animation 01_20
+  - first:
+      213: 5249192823909041153
+    second: Character animation 01_21
+  - first:
+      213: -3286112825386974321
+    second: Character animation 01_22
+  - first:
+      213: -8637700578990970086
+    second: Character animation 01_23
+  - first:
+      213: -5807989580612997522
+    second: Character animation 01_24
+  - first:
+      213: -4750986425034606198
+    second: Character animation 01_25
+  - first:
+      213: 661076767818445743
+    second: Character animation 01_26
+  - first:
+      213: -8422832033225521736
+    second: Character animation 01_27
+  - first:
+      213: -8653240436209324496
+    second: Character animation 01_28
+  - first:
+      213: 1936630355635976582
+    second: Character animation 01_29
+  - first:
+      213: -2272358526315467997
+    second: Character animation 01_30
+  - first:
+      213: -4492564289932766346
+    second: Character animation 01_31
+  - first:
+      213: 4272740482816463606
+    second: Character animation 01_32
+  - first:
+      213: 7854900427554913193
+    second: Character animation 01_33
+  - first:
+      213: -4180618253502845079
+    second: Character animation 01_34
+  - first:
+      213: -5120265002601234838
+    second: Character animation 01_35
+  - first:
+      213: 1705832853277588937
+    second: Character animation 01_36
+  - first:
+      213: -5724418307091216048
+    second: Character animation 01_37
+  - first:
+      213: -2618270750527188584
+    second: Character animation 01_38
+  - first:
+      213: -364356127797438758
+    second: Character animation 01_39
+  - first:
+      213: -9022802181450420600
+    second: Character animation 01_40
+  - first:
+      213: -3056406432110652012
+    second: Character animation 01_41
+  - first:
+      213: -4472194123545092402
+    second: Character animation 01_42
+  - first:
+      213: 3718976390813684548
+    second: Character animation 01_43
+  - first:
+      213: -2942962061828776270
+    second: Character animation 01_44
+  - first:
+      213: -5112154356916591232
+    second: Character animation 01_45
+  - first:
+      213: 3788708432540977931
+    second: Character animation 01_46
+  - first:
+      213: 4786115298447130926
+    second: Character animation 01_47
+  - first:
+      213: 8997528357867016948
+    second: Character animation 01_48
+  - first:
+      213: -7079372692680967638
+    second: Character animation 01_49
+  - first:
+      213: -468860395218968247
+    second: Character animation 01_50
+  - first:
+      213: 6250167720532014905
+    second: Character animation 01_51
+  - first:
+      213: -2627817294045876650
+    second: Character animation 01_52
+  - first:
+      213: -2643376123517935248
+    second: Character animation 01_53
+  - first:
+      213: -8068979903375467160
+    second: Character animation 01_54
+  - first:
+      213: 6962887261911844558
+    second: Character animation 01_55
+  - first:
+      213: 3723740572779005888
+    second: Character animation 01_56
+  - first:
+      213: 454835306812276240
+    second: Character animation 01_57
+  - first:
+      213: -880892818729707788
+    second: Character animation 01_58
+  - first:
+      213: -8275926348172011068
+    second: Character animation 01_59
+  - first:
+      213: 4573343667483720140
+    second: Character animation 01_60
+  - first:
+      213: 7558512045113215294
+    second: Character animation 01_61
+  - first:
+      213: -1487316544904909506
+    second: Character animation 01_62
+  - first:
+      213: -4855083774439743995
+    second: Character animation 01_63
+  - first:
+      213: -5899221343850347422
+    second: Character animation 01_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character animation 01_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 321
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb359a019ce61a90800000000000000
+      internalID: -7343422034689049625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 321
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1129e75d350cd88d0800000000000000
+      internalID: -2842404323504254447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 321
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac0b6d497801cdd0800000000000000
+      internalID: -2467681803739394898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 321
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bad4b0e05d29760800000000000000
+      internalID: 7463261788802231068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 321
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cdb02f26b48cfb0800000000000000
+      internalID: -4627365728783442838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 321
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13356b6dc2d5f6400800000000000000
+      internalID: 319576545728811825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 321
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e659d4c26f55e40800000000000000
+      internalID: 5644688378119417436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 321
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f476fe28ce494fec0800000000000000
+      internalID: -3534036064049076401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 320
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b5e5ab6aad19030800000000000000
+      internalID: 3499818795069758319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 320
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf048a1e6d335e230800000000000000
+      internalID: 3667394469565055227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 273
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e154905f39c4c180800000000000000
+      internalID: -9095924073609539099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 273
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929135b5f9124a450800000000000000
+      internalID: 6099036763682183465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 273
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3ffb737e574f670800000000000000
+      internalID: 8571605626726118348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 277
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e37132eea6f141e0800000000000000
+      internalID: -2215218310709939225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 273
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c6eb702a9f8cf20800000000000000
+      internalID: 3443276389434682423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 273
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf36bf4bc9be4b20800000000000000
+      internalID: 3120635874681175988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 273
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddce91f745b293e00800000000000000
+      internalID: 1024898032113151197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 273
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293a90035bf3933d0800000000000000
+      internalID: -3226477610606681198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_18
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 272
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe94ecb8e7bd19170800000000000000
+      internalID: 8183563334466816495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 272
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84085ccbf27f593d0800000000000000
+      internalID: -3200380175774285752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 272
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c860e72257c06df0800000000000000
+      internalID: -188932028679296832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 225
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104c0aadf01e8d840800000000000000
+      internalID: 5249192823909041153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 225
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8344febbc16562d0800000000000000
+      internalID: -3286112825386974321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 225
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bae018619b02880800000000000000
+      internalID: -8637700578990970086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_24
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 225
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e646c9f30e56fa0800000000000000
+      internalID: -5807989580612997522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 225
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89fb1ba40b111eb0800000000000000
+      internalID: -4750986425034606198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 225
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3f41b51dd9c2900800000000000000
+      internalID: 661076767818445743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 225
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5cfc054e61c1b80800000000000000
+      internalID: -8422832033225521736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 225
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e62bb8ba389e780800000000000000
+      internalID: -8653240436209324496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 224
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689bbe83c0b40ea10800000000000000
+      internalID: 1936630355635976582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 224
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32be2a4b5f5f670e0800000000000000
+      internalID: -2272358526315467997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_31
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 224
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673d3f7b49437a1c0800000000000000
+      internalID: -4492564289932766346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 177
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2d4b7c4d2db4b30800000000000000
+      internalID: 4272740482816463606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 177
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab79726256320d60800000000000000
+      internalID: 7854900427554913193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 177
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fe27a29d57bf5c0800000000000000
+      internalID: -4180618253502845079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_35
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 176
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eb614cb1a21f8b0800000000000000
+      internalID: -5120265002601234838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 176
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd3dc131f55ca710800000000000000
+      internalID: 1705832853277588937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_37
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 176
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059c51401e7ce80b0800000000000000
+      internalID: -5724418307091216048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 173
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8911805ef980aabd0800000000000000
+      internalID: -2618270750527188584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 128
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad695ee380c81faf0800000000000000
+      internalID: -364356127797438758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 128
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e2708883198c280800000000000000
+      internalID: -9022802181450420600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 128
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49553d42b867595d0800000000000000
+      internalID: -3056406432110652012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_42
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 128
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece518ba3239fe1c0800000000000000
+      internalID: -4472194123545092402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 128
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443938ec2557c9330800000000000000
+      internalID: 3718976390813684548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 128
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be9e35e89f7827d0800000000000000
+      internalID: -2942962061828776270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_45
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 128
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085650f92bafd09b0800000000000000
+      internalID: -5112154356916591232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 80
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bc127fe32349430800000000000000
+      internalID: 3788708432540977931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_47
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 80
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21010a8182bb6240800000000000000
+      internalID: 4786115298447130926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2da2bde54addc70800000000000000
+      internalID: 8997528357867016948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 80
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a762c4b0401cd90800000000000000
+      internalID: -7079372692680967638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_50
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 80
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94169b564f54e79f0800000000000000
+      internalID: -468860395218968247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_51
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 80
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9377ce05d6e0db650800000000000000
+      internalID: 6250167720532014905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_52
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 80
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e64c5081e188bd0800000000000000
+      internalID: -2627817294045876650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_53
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 80
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071e6fdbb67d05bd0800000000000000
+      internalID: -2643376123517935248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_54
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 80
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d1a877789350090800000000000000
+      internalID: -8068979903375467160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_55
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 32
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec60951e21521a060800000000000000
+      internalID: 6962887261911844558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_56
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 32
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7c33c52526da330800000000000000
+      internalID: 3723740572779005888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ef9dd3d46ef4600800000000000000
+      internalID: 454835306812276240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_58
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 32
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f65c6606a076c3f0800000000000000
+      internalID: -880892818729707788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 32
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c959e585d0062d80800000000000000
+      internalID: -8275926348172011068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_60
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 32
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc93620c5d7c77f30800000000000000
+      internalID: 4573343667483720140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_61
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 32
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e390c7788aa35e860800000000000000
+      internalID: 7558512045113215294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_62
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 32
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3da1688b7dfb5be0800000000000000
+      internalID: -1487316544904909506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_63
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 29
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e91cdc7074f9cb0800000000000000
+      internalID: -4855083774439743995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_64
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 32
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264c5647171c12ea0800000000000000
+      internalID: -5899221343850347422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character animation 01_65
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 343
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02938142b89e3464bb407fe82f55e30d
+      internalID: -1520088586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7935d13478a4ca94ab1a9da131ea593b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character animation 01_0: -7343422034689049625
+      Character animation 01_1: -2842404323504254447
+      Character animation 01_10: -9095924073609539099
+      Character animation 01_11: 6099036763682183465
+      Character animation 01_12: 8571605626726118348
+      Character animation 01_13: -2215218310709939225
+      Character animation 01_14: 3443276389434682423
+      Character animation 01_15: 3120635874681175988
+      Character animation 01_16: 1024898032113151197
+      Character animation 01_17: -3226477610606681198
+      Character animation 01_18: 8183563334466816495
+      Character animation 01_19: -3200380175774285752
+      Character animation 01_2: -2467681803739394898
+      Character animation 01_20: -188932028679296832
+      Character animation 01_21: 5249192823909041153
+      Character animation 01_22: -3286112825386974321
+      Character animation 01_23: -8637700578990970086
+      Character animation 01_24: -5807989580612997522
+      Character animation 01_25: -4750986425034606198
+      Character animation 01_26: 661076767818445743
+      Character animation 01_27: -8422832033225521736
+      Character animation 01_28: -8653240436209324496
+      Character animation 01_29: 1936630355635976582
+      Character animation 01_3: 7463261788802231068
+      Character animation 01_30: -2272358526315467997
+      Character animation 01_31: -4492564289932766346
+      Character animation 01_32: 4272740482816463606
+      Character animation 01_33: 7854900427554913193
+      Character animation 01_34: -4180618253502845079
+      Character animation 01_35: -5120265002601234838
+      Character animation 01_36: 1705832853277588937
+      Character animation 01_37: -5724418307091216048
+      Character animation 01_38: -2618270750527188584
+      Character animation 01_39: -364356127797438758
+      Character animation 01_4: -4627365728783442838
+      Character animation 01_40: -9022802181450420600
+      Character animation 01_41: -3056406432110652012
+      Character animation 01_42: -4472194123545092402
+      Character animation 01_43: 3718976390813684548
+      Character animation 01_44: -2942962061828776270
+      Character animation 01_45: -5112154356916591232
+      Character animation 01_46: 3788708432540977931
+      Character animation 01_47: 4786115298447130926
+      Character animation 01_48: 8997528357867016948
+      Character animation 01_49: -7079372692680967638
+      Character animation 01_5: 319576545728811825
+      Character animation 01_50: -468860395218968247
+      Character animation 01_51: 6250167720532014905
+      Character animation 01_52: -2627817294045876650
+      Character animation 01_53: -2643376123517935248
+      Character animation 01_54: -8068979903375467160
+      Character animation 01_55: 6962887261911844558
+      Character animation 01_56: 3723740572779005888
+      Character animation 01_57: 454835306812276240
+      Character animation 01_58: -880892818729707788
+      Character animation 01_59: -8275926348172011068
+      Character animation 01_6: 5644688378119417436
+      Character animation 01_60: 4573343667483720140
+      Character animation 01_61: 7558512045113215294
+      Character animation 01_62: -1487316544904909506
+      Character animation 01_63: -4855083774439743995
+      Character animation 01_64: -5899221343850347422
+      Character animation 01_65: -1520088586
+      Character animation 01_7: -3534036064049076401
+      Character animation 01_8: 3499818795069758319
+      Character animation 01_9: 3667394469565055227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

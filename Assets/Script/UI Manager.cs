@@ -9,7 +9,7 @@ public class UIManager : MonoBehaviour
 
     public void AddCoin(int value)
     {
-        PlayerCoins = value;
+        PlayerCoins += value;
         Punteggio.text = PlayerCoins.ToString();
         
     }

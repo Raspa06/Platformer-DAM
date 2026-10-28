@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4e5c026d6df9e054098586429f2112aa
+guid: 684ca98e8c92fbf4fa000b51ca30ca3f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6563084852444076711
-    second: Livello 1_0
+      213: -4245861136157462056
+    second: GrassLand_Tree_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Livello 1_0
+      name: GrassLand_Tree_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 740
-        height: 370
+        width: 64
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 955e253791d3be4a0800000000000000
-      internalID: -6563084852444076711
+      spriteID: 8d1b2bdcacba315c0800000000000000
+      internalID: -4245861136157462056
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Livello 1_0: -6563084852444076711
+      GrassLand_Tree_0: -4245861136157462056
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

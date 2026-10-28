@@ -6,6 +6,8 @@ public class Player : MonoBehaviour
     public Vector2 speed;
     public float JumpForce = 200;
     public Rigidbody2D Body2D;
+    public Animator animator2d;
+    public SpriteRenderer spriteRenderer;   
 
     bool IsGrounded = false;
     Vector2 currentSpeed;
@@ -36,8 +38,10 @@ public void PlayerInput_Move(CallbackContext callback)
     private void FixedUpdate()
     {
         Body2D.linearVelocityX = currentSpeed.x;
-    }
-    
+        animator2d.SetFloat("Speed x", currentSpeed.x);
+        spriteRenderer.flipX  = currentSpeed.x < 0;
+    } 
+
     public void SetGrounded(bool _isGrounded)
     {
         IsGrounded = _isGrounded;
